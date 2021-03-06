@@ -34,7 +34,7 @@ You are going to need XCode 10.3 on a Mojave Mac. I am not sure if you can compi
 
 ## TL;DR
 
-I been pretty busy so making this app has been frustrating as I am not good in coding and this app required a lot of attention but I am definitely willing to learn. A lot of my time spent on the app has been trying to learn how to access an API in Swift and incorporating that code into an IPhone app.
+A lot of my time spent on the app has been trying to learn how to access an API in Swift and incorporating that code into an IPhone app.
 
 ## Some background of my small app (for those curious)
 
